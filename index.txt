@@ -12,7 +12,7 @@
 
 <body>
 	<audio autoplay>
-	<source src="‪C:\Users\PRABHU\Desktop\N\ziya.mp3" type="audio/MPEG"></source>
+	<source src="‪C:\Users\PRABHU\Desktop\N\ziya.mp3" type="audio/MPEG">
 	</audio>
 	<div class="title">
 		ANGEL 💗 ZIYA 
